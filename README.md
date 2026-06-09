@@ -7,6 +7,7 @@ My learning repo — what I'm learning and how. Notes, code samples, and referen
 - [Programming](./programming/) — languages, algorithms, patterns, projects
 - [AI / ML / Data](./ai-ml-data/) — Python, ML models, LLMs, data science
 - [DevOps / Cloud / Systems](./devops-cloud-systems/) — Linux, Docker, cloud, networking
+- [Linux](./linux/) — shell, filesystem, permissions, processes, CLI tools
 
 ## How this repo works
 
