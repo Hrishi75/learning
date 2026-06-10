@@ -6,7 +6,8 @@ Shell, filesystem, permissions, processes, networking, and CLI tools.
 
 | Note | Status |
 |------|--------|
-| _(none yet)_ | |
+| [Shell Basics](notes/shell-basics.md) | ✅ |
+
 
 ## Folders
 
