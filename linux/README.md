@@ -8,6 +8,8 @@ Shell, filesystem, permissions, processes, networking, and CLI tools.
 |------|--------|
 | [Shell Basics](notes/shell-basics.md) | ✅ |
 | [Filesystem](notes/filesystem.md) | ✅ |
+| [Permissions](notes/permissions.md) | ✅ |
+
 
 
 
