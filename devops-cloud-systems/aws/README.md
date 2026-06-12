@@ -16,7 +16,8 @@ habits from day one.
 5. Use `05-terraform/` when you are ready for Infrastructure as Code.
 6. Use `06-docker-containers/` for Docker, ECR, ECS, and container deployment.
 7. Build the labs in `07-projects/`.
-8. Use `cheatsheets/` for quick command recall.
+8. Use `08-interview-questions/` for interview preparation.
+9. Use `cheatsheets/` for quick command recall.
 
 ## Folder Map
 
@@ -29,6 +30,7 @@ habits from day one.
 | `05-terraform/` | AWS provider, remote state, modules, environment structure |
 | `06-docker-containers/` | Docker basics, ECR image push, ECS/Fargate deployment |
 | `07-projects/` | Hands-on mini projects from beginner to advanced |
+| `08-interview-questions/` | AWS interview questions and answers by topic |
 | `cheatsheets/` | AWS CLI commands and security checklist |
 
 ## Recommended Practice Order
