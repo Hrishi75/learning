@@ -8,6 +8,7 @@ Linux, Docker, cloud platforms, CI/CD, and networking.
 |------|--------|
 | [AWS learning path](aws/README.md) | In progress |
 | [Terraform learning guide](terraform/00-terraform-learning-guide.md) | In progress |
+| [AI infra / DevOps for AI](ai-infra-devops/README.md) | In progress |
 
 ## Folders
 
@@ -15,3 +16,4 @@ Linux, Docker, cloud platforms, CI/CD, and networking.
 - `examples/` - configs, scripts, manifests
 - `aws/` - AWS notes, setup commands, security practices, Terraform, Docker, and projects
 - `terraform/` - Terraform learning guide and IaC notes
+- `ai-infra-devops/` - GPUs, serving, MLOps/LLMOps, pipelines, IaC for AI systems
